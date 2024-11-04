@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olajoise.github.io/HtJ/sitemap_index.txt
+Sitemap: https://olajoise.github.io/bWD/sitemap_index.txt
+Sitemap: https://olajoise.github.io/hZU/sitemap_index.txt
+Sitemap: https://olajoise.github.io/oys/sitemap_index.txt
